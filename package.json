@@ -1,0 +1,31 @@
+{
+  "name": "multi-currency-words",
+  "version": "1.0.0",
+  "description": "Convert currency amounts to words with support for Indian and International numbering systems",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "currency",
+    "words",
+    "indian",
+    "international",
+    "number",
+    "money",
+    "convert",
+    "lakh",
+    "crore",
+    "dollars",
+    "paise",
+    "cents"
+  ],
+  "author": "Pavan Kumar Mistry",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistrypavankumar/multi-currency-words"
+  },
+  "bugs": {
+    "url": "https://github.com/mistrypavankumar/multi-currency-words/issues"
+  },
+  "homepage": "https://github.com/mistrypavankumar/multi-currency-words#readme"
+}
