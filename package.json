@@ -1,6 +1,6 @@
 {
   "name": "multi-currency-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert currency amounts to words with support for Indian and International numbering systems",
   "main": "src/index.js",
   "types": "src/index.d.ts",
